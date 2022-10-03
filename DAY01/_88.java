@@ -24,6 +24,7 @@ public class _88 {
         if (n == 0) {
             return;
         }
+        
         for (int i = m; i < nums1.length; i++) {
             if (k == nums2.length) {
                 break;
