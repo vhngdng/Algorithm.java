@@ -14,6 +14,7 @@ public class _88 {
     }
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
+        int k = n - nums2.length;
         if (m == 0) {
             for (int i = 0; i < n; i++) {
                 nums1[i] = nums2[i];
@@ -23,40 +24,14 @@ public class _88 {
         if (n == 0) {
             return;
         }
-
-        int[] cloneArray = new int[m + n];
-        int k = 0;
-        int j = 0;
-        for (int i = m + n - 1; i >= 0; i--) {
-            
-
-            if (k == m + n) break;
-
-            if (n > 1 && nums1[i] != 0 && nums1[i] > nums2[n - 1 - j]) {
-                
-                cloneArray[m + n - 1 - k++] = nums1[i];
-                
-            } else if (n > 1 && nums1[i] != 0 && nums1[i] == nums2[n - 1 - j]) {
-                
-                cloneArray[m + n - 1 - k++] = nums1[i];
-                cloneArray[m + n - 1 - k++] = nums2[n - 1 - j++];
-                
-            } else if (n > 1 && nums1[i] != 0 && nums1[i] < nums2[n - 1 - j]) {
-                
-                cloneArray[m + n - 1 - k++] = nums2[n - 1 - j++];
-                i++;
-            }   
-            if (j == n && nums1[i] != 0) {
-                cloneArray[m + n - 1 - k++] = nums1[--i];
-            } else if (i == 0) {
-
-            cloneArray[m + n - 1 - k++] = nums2[n - 1 - j++];
+        for (int i = m; i < nums1.length; i++) {
+            if (k == nums2.length) {
+                break;
             }
-
+            nums1[i] = nums2[0];
+            nums2 = Arrays.copyOfRange(nums2, 1, n--);
         }
-        for (int i = 0; i < cloneArray.length; i ++) nums1[i] = cloneArray[i];
-        System.out.println(Arrays.toString(cloneArray));
-        nums1 = cloneArray;
+        Arrays.sort(nums1);
 
     }
 }
