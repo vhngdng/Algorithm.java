@@ -26,10 +26,10 @@ public class _796 {
         int length = s.length();
         String test = new String();
         for (int i = 1; i < s.length(); i ++) {
+            if (test.lastIndexOf(s) == goal.lastIndexOf(goal)) break;
             test = s.substring(i, length).concat(s.substring(0, i));
             if (test.equals(goal)) return true;
             arr.add(test);
-            if (test.charAt(0) == goal.charAt(0)) break;
         }     
         return arr.contains(goal);
     }
