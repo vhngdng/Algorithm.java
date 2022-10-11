@@ -20,45 +20,17 @@ public class _796 {
         System.out.println(rotateString2(s, goal));
     }
 
-    public static boolean rotateString(String s, String goal) {
-        if (s.length() != goal.length()) return false;
-        else {
-        List<String> arrList = new ArrayList<>();
-        List<String> arrListResult = new ArrayList<>();
-        String str = new String();
-        String strResult = new String();
-        for (int i = 0; i < s.length(); i++) {
-            if (i == s.length() - 1) {
-                str = String.valueOf(s.charAt(i)).concat(String.valueOf(s.charAt(0)));
-                arrList.add(str);
-                strResult = String.valueOf(goal.charAt(i)).concat(String.valueOf(goal.charAt(0)));
-                arrListResult.add(strResult);
-                break;
-            }
-            str = s.substring(i, i + 2);
-            arrList.add(str);
-
-            strResult = goal.substring(i, i + 2);
-            arrListResult.add(strResult);
-        }
-
-        return arrList.containsAll(arrListResult);
-    }
-
-    }
 
     public static boolean rotateString2(String s, String goal) {
         List<String> arr = new ArrayList<>();
         int length = s.length();
         String test = new String();
         for (int i = 1; i < s.length(); i ++) {
-            if (test.lastIndexOf(s) == goal.lastIndexOf(goal)) break;
             test = s.substring(i, length).concat(s.substring(0, i));
             if (test.equals(goal)) return true;
             arr.add(test);
-            
-        }
-        
+            if (test.charAt(0) == goal.charAt(0)) break;
+        }     
         return arr.contains(goal);
     }
 
