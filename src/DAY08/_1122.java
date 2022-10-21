@@ -29,7 +29,7 @@ public class _1122 {
                 }
             }
         }
-        System.out.println(Arrays.toString(arr1));
+        
         for (int i = k; i < arr1.length; i++) {
             for (int j = i + 1; j < arr1.length; j++) {
                 if (arr1[i] > arr1[j]) {
