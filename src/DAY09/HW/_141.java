@@ -32,48 +32,27 @@ public class _141 {
         }
         if (head.next == head)
             return true;
-        ListNode firstNode = head;
+        // ListNode firstNode = head;
         ListNode temp = head.next;
 
         if (temp.next == null)
             return false;
 
         while (temp.next != null) {
-            pos++;
-            for (int i = 0; i < pos - 1; i++) {
-                if (firstNode.next == temp.next || temp.next == head.next)
-                    return true;
-                // else if (temp.next == head) {
-                //     return false;
-                // } 
-                else {
-                    firstNode = firstNode.next;
-                }
-            }
+            // pos++;
+            // for (int i = pos - 1; i >= 0; i--) {
+            //     if (firstNode.next == temp.next || temp.next == head.next)
+            //         return true;
+            //     else {
+            //         firstNode = firstNode.next;
+            //     }
+            // }
             temp = temp.next;
-            firstNode = head;
+            // firstNode = head;
+            if (temp.next == null) return false;
 
         }
-        return false;
-
-        // while (temp.next != null) {
-        // if (temp == head)
-        // return false;
-
-        // pos++;
-        // for (int i = 0; i < pos; i++) {
-        // if (firstNode == temp.next)
-        // return true;
-        // else {
-        // temp = temp.next;
-        // }
-
-        // }
-        // if (temp.next != null) {
-        // node = node.next;
-        // temp = head.next;
-        // } else
-        // return false;
+        return true;
 
     }
 }
