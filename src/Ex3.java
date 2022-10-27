@@ -11,7 +11,7 @@ public class Ex3 {
             else {
                 int x = 9 - nums[i];
                 for (int j = nums.length -1; j > 0; j--) {
-                    if (x == nums[j] && x >= 0) {
+                    if (x == nums[j]) {
                         result[k] = i;
                         result[k + 1] = j;
                     };

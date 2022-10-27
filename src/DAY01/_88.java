@@ -16,9 +16,7 @@ public class _88 {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         int k = n - nums2.length;
         if (m == 0) {
-            for (int i = 0; i < n; i++) {
-                nums1[i] = nums2[i];
-            }
+            if (n >= 0) System.arraycopy(nums2, 0, nums1, 0, n);
             return;
         }
         if (n == 0) {

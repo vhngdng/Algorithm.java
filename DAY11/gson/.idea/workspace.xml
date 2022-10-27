@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9fab566-4a29-4514-90a2-9fb220ff3242" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../json2/untitled/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY01/DAY01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY04/mavenProject/maven-project/maven-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/_1299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/_704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY05/_941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/DAY01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/_27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY01/_88.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/Fix_88.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/HW/_283.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/HW/_905.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY02/_1089.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY03/HW/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY03/HW/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/_50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/out/production/HW/HW/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/out/production/HW/HW/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/out/production/HW/HW/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/out/production/HW/HW/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/HW/out/production/HW/HW/HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/Recursion/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/Src/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/Src/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/Src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/Src/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY04/_344.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/.idea/DAY05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/_1299.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/_70.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/_704.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY05/_941.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY06/_796.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY07/_1346.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY07/_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY07/_912.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/DAY09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/DemoLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/_206$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/DAY09/_206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/Ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/Ex4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_1122.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_1512.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_202.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_36.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_394.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/HW/production/algorithm/_724.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/_1346.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/DAY07/_912.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DAY05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/.idea/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/DAY01/_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/DAY01/_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/DAY01/_88.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/DAY01/_88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/DAY09/HW/_141.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/DAY09/HW/_141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Test/_724.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/Test/_724.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GhI6qgl0WpuP3JLc2DrZsmFX2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/dung/Documents/algorithm/DAY11/hw",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fab566-4a29-4514-90a2-9fb220ff3242" name="Changes" comment="" />
+      <created>1666834218968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666834218968</updated>
+      <workItem from="1666834220275" duration="1701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -25,14 +25,13 @@ Return the leftmost pivot index. If no such index exists, return -1.
         int leftSum = -1;
         int rightSum = -1;
         for (int i = 0; i < nums.length; i++) {
-            if (i == 0) leftSum = -1;
+            if (i == 0) leftSum = 0;
             else {
             int[]left = Arrays.copyOfRange(nums, 0, i);
-            System.out.println(Arrays.toString(left));
             leftSum = sum(left);
             }
 
-            if (i == nums.length - 1) rightSum = -1;
+            if (i == nums.length - 1) rightSum = 0;
             else {
             int[]right = Arrays.copyOfRange(nums, i + 1, nums.length);
             rightSum = sum(right);

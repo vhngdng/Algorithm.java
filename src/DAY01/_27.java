@@ -15,14 +15,14 @@ public class _27 {
     public static int removeElement(int[] nums, int val) {
         int k = 0;
         int[] expectedNums = new int[1];
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != val) {
+        for (int num : nums) {
+            if (num != val) {
                 k++;
-                expectedNums = Arrays.copyOf(expectedNums, k );
-                expectedNums[k - 1] = nums[i];
+                expectedNums = Arrays.copyOf(expectedNums, k);
+                expectedNums[k - 1] = num;
                 System.out.println(Arrays.toString(expectedNums));
             }
-             
+
         }
         if (k == 0) {
             expectedNums = Arrays.copyOf(expectedNums, 0);
