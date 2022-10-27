@@ -22,7 +22,7 @@ public class App
 
         System.out.println("=============================================================");
         System.out.println("Show all brand");
-        service.getAllBrand(service.getAllProduct())
+        service.getAllBrand(service.getAllProduct())  // input Productlist -> output: Brand list
                 .forEach(System.out::println);
         System.out.println("=============================================================");
 
