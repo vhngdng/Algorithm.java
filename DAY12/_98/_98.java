@@ -92,7 +92,6 @@ public class _98 {
                 // change root
                 if (tempLeft.left != null) {
                     isValid = isSmaller(node, tempLeft.left);
-                    // System.out.println(tempLeft.left.val);
                     if (isValid == false)
                         return isValid;
                 }
@@ -106,7 +105,7 @@ public class _98 {
 
             if (tempRight != null) { // tim dk sai trong leaf node ben phai
                 isValid = isSmaller(root, tempRight);
-                System.out.println(tempRight);
+                
                 if (isValid == false)
                     return isValid;
                 if (tempRight.left != null) {
@@ -142,7 +141,7 @@ public class _98 {
                 // change root
                 if (tempLeft.left != null) {
                     isValid = isHigher(node, tempLeft.left);
-                    // System.out.println(tempLeft.left.val);
+  
                     if (isValid == false)
                         return isValid;
                 }
@@ -156,12 +155,12 @@ public class _98 {
 
             if (tempRight != null) { // tim dk sai trong leaf node ben phai
                 isValid = isHigher(root, tempRight);
-                System.out.println(tempRight);
+              
                 if (isValid == false)
                     return isValid;
                 if (tempRight.left != null) {
                     isValid = isHigher(node, tempRight.left);
-                    // System.out.println(tempLeft.left.val);
+                    
                     if (isValid == false)
                         return isValid;
                 }
